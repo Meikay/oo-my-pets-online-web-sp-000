@@ -4,4 +4,7 @@ class Owner
   def initialize(pets)
     @pets = pets
   end
+
+  def self.owner
+  end
 end
