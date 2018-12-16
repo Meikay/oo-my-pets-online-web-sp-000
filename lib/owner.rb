@@ -9,6 +9,6 @@ class Owner
 
   def self.owner
     @@all << self
-    
+
   end
 end
